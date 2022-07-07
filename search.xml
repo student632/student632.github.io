@@ -4,6 +4,9 @@
     <title>我的第一篇博客</title>
     <url>/2022/07/06/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<p>前言：大家好这是我的第一篇博客在搭建博客时我遇到了许多困难也有许多坑但是呢我都解决了，现在为大家带来一篇搭建博客无坑教程，把我之前踩过的坑都填上。</p>
+<span id="more"></span>
+
+
 <h2 id="第一篇章"><a href="#第一篇章" class="headerlink" title="第一篇章"></a>第一篇章</h2><h2 id="下载："><a href="#下载：" class="headerlink" title="下载："></a>下载：</h2><p>在搭建博客时我们要下载许多框架，现在我为大家来介绍一下此次需要下载的“必需品”吧!!!!!!</p>
 <p>首先我们需要下载一个软件——&gt;node.js 它的作用呢就是使JavaScript这种脚本语言与python平起平坐(我是这么理解的，如果有更好的理解也欢迎大家补充)</p>
 <p>node.js下载地址: <a href="https://nodejs.org/en/">https://nodejs.org/en/</a>  </p>
